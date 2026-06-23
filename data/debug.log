@@ -1,0 +1,25 @@
+
+
+
+
+
+2026-06-23T19:56:10Z Bitcoin Core version v0.3.0 (release build)
+2026-06-23T19:56:10Z Using the 'x86_shani(1way,2way)' SHA256 implementation
+2026-06-23T19:56:10Z Using RdSeed as an additional entropy source
+2026-06-23T19:56:10Z Using RdRand as an additional entropy source
+2026-06-23T19:56:10Z Default data directory /home/eduard/.bitcoin
+2026-06-23T19:56:10Z Using data directory /home/eduard/fractald-0.3.0-x86_64-linux-gnu/data
+2026-06-23T19:56:10Z Config file: /home/eduard/fractald-0.3.0-x86_64-linux-gnu/data/bitcoin.conf (not found, skipping)
+2026-06-23T19:56:10Z Command-line arg: datadir="./data/"
+2026-06-23T19:56:10Z Using at most 125 automatic connections (1024 file descriptors available)
+2026-06-23T19:56:10Z Warning: relative datadir option './data/' specified, which will be interpreted relative to the current working directory '/home/eduard/fractald-0.3.0-x86_64-linux-gnu'. This is fragile, because if bitcoin is started in the future from a different location, it will be unable to locate the current data files. There could also be data loss if bitcoin is started while in a temporary directory.
+2026-06-23T19:56:10Z scheduler thread start
+2026-06-23T19:56:10Z Binding RPC on address ::1 port 8332
+2026-06-23T19:56:10Z Binding RPC on address ::1 port 8332 failed.
+2026-06-23T19:56:10Z Binding RPC on address 127.0.0.1 port 8332
+2026-06-23T19:56:10Z Binding RPC on address 127.0.0.1 port 8332 failed.
+2026-06-23T19:56:10Z Unable to bind any endpoint for RPC server
+2026-06-23T19:56:10Z [error] Unable to start HTTP server. See debug log for details.
+2026-06-23T19:56:10Z Shutdown: In progress...
+2026-06-23T19:56:10Z scheduler thread exit
+2026-06-23T19:56:10Z Shutdown: done
