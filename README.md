@@ -4,7 +4,7 @@
   <img src="assets/fb.jpg" width="700" alt="CKPool-DigiByte Stack">
 </p>
 
-A high-performance mining pool solution based on the CKPool architecture, optimized for the Fractal network. This repository includes the core pool software, statistics daemon, and necessary build scripts.
+ A high-performance mining pool solution based on the CKPool architecture, optimized for the Fractal network. This repository includes the core pool software, statistics daemon, and necessary build scripts.
 
 ## 📁 Project Structure
 
